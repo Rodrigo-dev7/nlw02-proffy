@@ -2,6 +2,7 @@
 Proffy é uma plataforma online para conetar alunos com professores para ter aulas online.
 
 
+
 ![landing](https://user-images.githubusercontent.com/60434681/90255992-6c427780-de1b-11ea-9f7d-eb019fb62939.png)
 
 
@@ -159,45 +160,16 @@ O back-end é responsável por cálculos, lógica de negócio, interações de d
 -  [x] Diferenças de React Native para ReactJS
 	- [x] Elementos
 	
-	![carbon2-rn](https://user-images.githubusercontent.com/60434681/90256034-7cf2ed80-de1b-11ea-89ab-3a5273cb61b1.png)
-```
-*** REACT NATIVE ***
+	
+	![rn1](https://user-images.githubusercontent.com/60434681/90257568-b9bfe400-de1d-11ea-9c9d-3fec321f837a.png)
+	
 
-<View>
-	<Text> Hello World</Text>
-</View>
 
-*** REACTJS ***
-
-  <div>
-   <h1>Hello World</h1> 
-   </div> 
-   ```
 - [x] Estilização
 
 
 
-![carbon-RN](https://user-images.githubusercontent.com/60434681/90256047-811f0b00-de1b-11ea-90be-c9642c69bf2d.png)
+![rn2](https://user-images.githubusercontent.com/60434681/90257574-bb89a780-de1d-11ea-906a-83a62ab59b5e.png)
 
 
-```
-import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
 
-export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Hello World!</Text>
-    </View>
-  );
-}
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
-```
