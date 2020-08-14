@@ -1,11 +1,25 @@
 # Proffy
 Proffy é uma plataforma online para conetar alunos com professores para ter aulas online.
 
+
+![landing](https://user-images.githubusercontent.com/60434681/90255992-6c427780-de1b-11ea-9f7d-eb019fb62939.png)
+
+
+
+
+
+
+
+
+
+
+
+
 ## Tecnologias Utilizadas
->-   [TypeScript](  [https://www.typescriptlang.org/] (https://www.typescriptlang.org/))  
->- [Visual Studio Code]([https://code.visualstudio.com/](https://code.visualstudio.com/))
->-  [NodeJS](https://nodejs.org/en/](https://nodejs.org/en/))
->- [ReactJS]([https://pt-br.reactjs.org/](https://pt-br.reactjs.org/))
+>- [TypeScript](https://www.typescriptlang.org/] (https://www.typescriptlang.org/))  
+>- [Visual Studio Code](https://code.visualstudio.com/](https://code.visualstudio.com/))
+>- [NodeJS](https://nodejs.org/en/](https://nodejs.org/en/))
+>- [ReactJS](https://pt-br.reactjs.org/](https://pt-br.reactjs.org/))
 >- [React Native](https://reactnative.dev/](https://reactnative.dev/))
 
 
@@ -39,6 +53,10 @@ $ yarn create reacct-app (project-name) --template typescript
 $ npx create-react-app (project-name) --template typescript
 
 ````
+
+
+![gif-proffy](https://user-images.githubusercontent.com/60434681/90255952-6187e280-de1b-11ea-9713-bc9d725bbdd8.gif)
+
 
 ## Back-end com Nodejs <img src="https://img.icons8.com/color/144/000000/nodejs.png"/>
 
@@ -140,6 +158,8 @@ O back-end é responsável por cálculos, lógica de negócio, interações de d
     
 -  [x] Diferenças de React Native para ReactJS
 	- [x] Elementos
+	
+	![carbon2-rn](https://user-images.githubusercontent.com/60434681/90256034-7cf2ed80-de1b-11ea-89ab-3a5273cb61b1.png)
 ```
 *** REACT NATIVE ***
 
@@ -154,6 +174,11 @@ O back-end é responsável por cálculos, lógica de negócio, interações de d
    </div> 
    ```
 - [x] Estilização
+
+
+
+![carbon-RN](https://user-images.githubusercontent.com/60434681/90256047-811f0b00-de1b-11ea-90be-c9642c69bf2d.png)
+
 
 ```
 import React from 'react';
