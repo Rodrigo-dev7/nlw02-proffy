@@ -1,5 +1,5 @@
 # Proffy
->  **Proffy é uma plataforma online para conetar alunos com professores para ter aulas online.**
+>  **Proffy é uma plataforma online para conectar alunos com professores para ter aulas online.**
 
 
 
