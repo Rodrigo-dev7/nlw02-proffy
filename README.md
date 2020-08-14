@@ -7,15 +7,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 ## Tecnologias Utilizadas
 >- [TypeScript](https://www.typescriptlang.org/] (https://www.typescriptlang.org/))  
 >- [Visual Studio Code](https://code.visualstudio.com/](https://code.visualstudio.com/))
@@ -172,4 +163,8 @@ O back-end é responsável por cálculos, lógica de negócio, interações de d
 ![rn2](https://user-images.githubusercontent.com/60434681/90257574-bb89a780-de1d-11ea-906a-83a62ab59b5e.png)
 
 
+
+## Aplicação Mobile
+
+![mobile-proffy-gif](https://user-images.githubusercontent.com/60434681/90259608-afebb000-de20-11ea-94af-b9682369a116.gif)
 
